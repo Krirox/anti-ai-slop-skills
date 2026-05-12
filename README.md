@@ -1,6 +1,6 @@
-# Anti-Ai-Slop-SKill-for-Claude
+# Anti-Ai-Slop-SKill-for-agents
 
-A Claude skill that detects and eliminates "AI slop" aesthetics from frontend UI — websites, landing pages, dashboards, components, and any web interface.
+A skill that detects and eliminates "AI slop" aesthetics from frontend UI — websites, landing pages, dashboards, components, and any web interface.
 
 ## What is AI slop?
 
