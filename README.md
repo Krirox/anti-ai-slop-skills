@@ -74,7 +74,7 @@ Also triggers automatically before any frontend code generation, even without an
 
 Using this skill is incredibly simple. You don't need any special extensions or plugins. 
 
-If you are using the standard Claude.ai web interface, ChatGPT, Cursor, or any other AI tool, simply open the **`SKILL.md`** file in this repository, copy all the text, and paste it directly into your "Project Instructions", "Custom Instructions", or "Rules for AI".
+If you are using the standard Claude.ai web interface, ChatGPT, Cursor, or any other AI tool, simply open the **`SKILL.md`** file in this repository, copy all the text, and paste it directly into your "Project Instructions", "Custom Instructions", or "Rules for AI" or you can also get this file under skills in codebase and tell the LLM to use thus particular skill.
 ---
 
 ## The meta-rule
