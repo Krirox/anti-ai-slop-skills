@@ -16,7 +16,7 @@ This skill resists the average. Every default the model wants to reach for is su
 - Scores existing UI on a 10-dimension, 30-point rubric and surfaces the highest-leverage fixes
 - Commits to a deliberate aesthetic direction per project (brutalist, editorial, Swiss, terminal, maximalist, photographic, documentary) — and holds to it
 - Eliminates banned copy patterns ("Seamlessly," "Unleash," "Transform your workflow") and replaces them with specific, opinionated language
-- Enforces full state coverage: empty, loading, error, edge, zero states — not just the happy path
+- Enforces full state coverage: empty, loading, error, edge, zero states, not just the happy path
 
 ---
 
