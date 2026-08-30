@@ -81,7 +81,7 @@ If you are using the standard Claude.ai web interface, ChatGPT, Cursor, or any o
 
 > Before shipping any frontend output, ask: **"What did I do here that another AI wouldn't have done by default?"** If the answer is nothing, restart.
 
----
+----
 
 
 **Created by Krishivag**
