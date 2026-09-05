@@ -1,4 +1,4 @@
-# Anti-Ai-Slop-SKill-for-agents
+# Anti-Ai-Slop-Skill-for-agents
 
 A skill that detects and eliminates "AI slop" aesthetics from frontend UI websites, landing pages, dashboards, components, and any web interface.
 
