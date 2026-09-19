@@ -56,7 +56,7 @@ Score each dimension 0–3 (0 = clean, 3 = pure slop):
 
 ## Usage triggers
 
-Load this skill when the user says things like:
+Load this skill when the user says things/words like:
 
 - "make this not look AI-made"
 - "remove the v0 vibes"
