@@ -84,4 +84,4 @@ If you are using the standard Claude.ai web interface, ChatGPT, Cursor, or any o
 ----
 
 
-**Created by Krishivag**
+**Created by Krirox**
