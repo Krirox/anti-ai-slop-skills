@@ -70,7 +70,7 @@ Also triggers automatically before any frontend code generation, even without an
 
 ---
 
-## How to use
+## How to use this skill
 
 Using this skill is incredibly simple. You do not need any special extensions or plugins. 
 
